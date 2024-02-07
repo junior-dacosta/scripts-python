@@ -1,5 +1,4 @@
 # scripts-python
-Repository to store my Python code for my student project
 
 # Instacart Grocery Basket Analysis
 
