@@ -33,6 +33,7 @@ The analysis will involve the following steps:
 - Matplotlib and Seaborn for data visualization
 - NumPy for numerical computing
 - OS module for interacting with the operating system
+- Excel for final report generation
 
 
 
