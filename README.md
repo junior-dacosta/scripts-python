@@ -1,4 +1,4 @@
-# scripts-python
+# Instacart-Project-Python
 
 # Instacart Grocery Basket Analysis
 
