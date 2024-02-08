@@ -1,4 +1,3 @@
-# Instacart-Project-Python
 
 # Instacart Grocery Basket Analysis
 
